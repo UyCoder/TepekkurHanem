@@ -186,6 +186,7 @@ section.recent-posts {
 
 .post-top-meta {
     font-family: 'alkatip';
+    direction: rtl;
     text-align: justify;
     margin-bottom: 2rem;
 }
@@ -558,7 +559,7 @@ ul.tags li a:hover {
 }
 
 .post-top-meta .btn.follow {
-    margin-left: 5px;
+    margin-left: 10px;
     margin-top: -4px;
 }
 
