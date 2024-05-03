@@ -8,24 +8,20 @@
 	display:inline;
 }
 
-.layout-default .layout-post .site-content .sitetitle .article-post {
-	direction: rtl;
-	text-align: justify;
-	font-family: 'alkatip';
-	text-indent: 30px;
-}
-.* {
-	direction: rtl !important;
-	text-align: justify !important;
-	font-family: 'alkatip' !important;
-}
 
 body {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
+	text-indent: 30px !important;
 }
 
+* {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+	text-indent: 30px !important;
+}
 
 @font-face {
 	font-family: 'alkatip';

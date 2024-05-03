@@ -131,12 +131,15 @@ body {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
+    text-indent: 30px !important;
 }
-.container {
+
+* {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
-
+    text-indent: 30px !important;  
 }
+
 
 </style>
