@@ -8,11 +8,12 @@
 	display:inline;
 }
 
-.layout-default .layout-post .site-content .sitetitle{
-	direction: rtl !important;
-	text-align: justify !important;
-	font-family: 'alkatip' !important;
+.layout-default .layout-post .site-content .sitetitle .article-post {
+	direction: rtl;
+	text-align: justify;
+	font-family: 'alkatip';
 }
+
 
 @font-face {
 	font-family: 'alkatip';
