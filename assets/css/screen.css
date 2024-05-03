@@ -312,11 +312,12 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: 'alkatip';
+    font-weight: 900;
 }
 
 .mainheading h1.posttitle {
     font-family: 'alkatip';
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 1rem;
 }
 
