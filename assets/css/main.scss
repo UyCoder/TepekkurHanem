@@ -8,12 +8,17 @@
 	display:inline;
 }
 
-
+body{
+	direction: rtl !important;
+	text-align: justify !important;
+}
 .main-content {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
 }
+
+
 
 
 @font-face {
