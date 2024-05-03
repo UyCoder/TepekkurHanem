@@ -544,6 +544,9 @@ ul.tags li a:hover {
     border-radius: 999em;
     font-size: 0.85rem;
     display: inline-block;
+    padding-top: 9px !important;
+    padding-left: 28px !important;
+    padding-right: 0px !important;
 }
 
 .btn.subscribe {
@@ -561,6 +564,7 @@ ul.tags li a:hover {
 .post-top-meta .btn.follow {
     margin-left: 10px;
     margin-top: -4px;
+
     padding-top: 9px !important;
     padding-left: 28px !important;
     padding-right: 0px !important;
@@ -651,6 +655,10 @@ ul.tags li a:hover {
     margin-top: 10px;
     margin-left: 0;
     font-size: 0.9rem;
+
+    padding-top: 9px !important;
+    padding-left: 28px !important;
+    padding-right: 0px !important;
 }
 
 .graybg.authorpage {
