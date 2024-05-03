@@ -561,9 +561,9 @@ ul.tags li a:hover {
 .post-top-meta .btn.follow {
     margin-left: 10px;
     margin-top: -4px;
-    padding-top: 9px;
-    padding-left: 28px;
-    padding-right: 0px;
+    padding-top: 9px !important;
+    padding-left: 28px !important;
+    padding-right: 0px !important;
 }
 
 .alertbar {
