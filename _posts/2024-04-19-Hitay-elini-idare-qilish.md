@@ -132,10 +132,11 @@ body {
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
 }
-/*.container {*/
-/*	direction: rtl !important;*/
-/*	text-align: justify !important;*/
-/*	font-family: 'alkatip' !important;*/
-/*}*/
+.container {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+
+}
 
 </style>

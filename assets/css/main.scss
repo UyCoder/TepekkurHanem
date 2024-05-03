@@ -14,6 +14,17 @@
 	font-family: 'alkatip';
 	text-indent: 30px;
 }
+.* {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+}
+
+body {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+}
 
 
 @font-face {
