@@ -8,6 +8,11 @@
 	display:inline;
 }
 
+.container {
+	text-align: right !important;
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
