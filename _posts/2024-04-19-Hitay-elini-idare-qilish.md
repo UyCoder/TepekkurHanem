@@ -7,10 +7,6 @@ image: assets/images/12.jpg
 ---
 _تەخمىنەن ئوقۇش ۋاقتى 7 مىنۇت_
 
-# شاڭ جۈن شۇ: خەلقنى كونتۇرۇل قىلىشنىڭ 5 خىل ئۇسۇلى 
-<img src="https://raw.githubusercontent.com/UyCoder/paydilar/master/pics/shangjunshi.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%;">
-
-
 ### كىرىش سۆز
 
 شاڭ جۈن شۇ، يەنى شاڭنىڭ پادىشاھ قوللانمىسى دىگەن كىتاپ مىلادىيەدىن بۇرۇنقى 3- ئەسىردە يىزىلغان كىتاپ بولۇپ، بۇنىڭدىن 2300 يىل ئىلگىرى يىزىلغان بۇ كىتاپ ئۇزۇن زامان پۇخرالاردىن چەكلىنىپ كەلگەن. بۇ كىتاپتا ئوتۇرغا قويۇلغان خەلقنى كونتۇرۇل قىلىشنىڭ 5 خىل ئۇسۇلى، تارىختىن بۇيان خىتتايدىكى پادىشاھلارغا ۋە ياكى ھاكىمىيەت يۈرگۈزگەنلەرگە ئالاھىدە يىتەكچىلىك رول ئويناپ كەلگەن.
@@ -134,12 +130,6 @@ body {
     text-indent: 30px !important;
 }
 
-* {
-	direction: rtl !important;
-	text-align: justify !important;
-	font-family: 'alkatip' !important;
-    text-indent: 30px !important;  
-}
 
 
 </style>

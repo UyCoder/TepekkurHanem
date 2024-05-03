@@ -899,17 +899,3 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-
-body {
-    direction: rtl !important;
-    text-align: justify !important;
-    font-family: 'alkatip' !important;
-    text-indent: 30px !important;
-}
-
-* {
-    direction: rtl !important;
-    text-align: justify !important;
-    font-family: 'alkatip' !important;
-    text-indent: 30px !important;
-}
