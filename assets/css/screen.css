@@ -185,6 +185,8 @@ section.recent-posts {
 }
 
 .post-top-meta {
+    font-family: 'alkatip';
+    text-align: justify;
     margin-bottom: 2rem;
 }
 
@@ -204,6 +206,8 @@ section.recent-posts {
 }
 
 .post-top-meta .author-description {
+    font-family: 'alkatip';
+    text-align: justify;
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
@@ -472,7 +476,9 @@ blockquote {
 
 @media (max-width:767px) {
     .post-top-meta.authorpage {
-        text-align: center;
+        font-family: 'alkatip';
+        text-align: justify;
+        /*text-align: center;*/
     }
 }
 
