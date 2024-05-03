@@ -863,7 +863,7 @@ iframe {
 .spoiler:after {
     position: absolute;
     opacity: 0;
-    content: 'Click to reveal spoiler';
+    content: 'بېسىپ مەخپىي مەزمۇننى كۆرۈڭ';
     top: 45%;
     left: calc(50% - 100px);
     text-shadow: none;
@@ -874,7 +874,7 @@ iframe {
     line-height: 1;
     padding: 2px 3px;
     width: 150px;
-    font-family: Arial;
+    font-family: 'alkatip';
     text-align: center;
     border-radius: 3px;
     transition: all .4s;
