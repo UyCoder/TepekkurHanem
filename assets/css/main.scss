@@ -11,6 +11,15 @@
 .container {
 	direction: rtl !important;
 	text-align: justify;
+	font-family: 'alkatip' !important;
+}
+
+@font-face {
+	font-family: 'alkatip';
+	src: url('../fonts/ALKATIP-TOR.woff2') format('woff2'),
+	url('../fonts/ALKATIP-TOR.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
 
 
