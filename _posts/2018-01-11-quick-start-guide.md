@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's test spoilers"
-author: sal
+author: بۇغرا
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
