@@ -99,6 +99,7 @@ section.recent-posts {
 
 @media (min-width:992px) {
     .navbar-expand-lg .navbar-nav .nav-link {
+        font-family: 'alkatip';
         padding-right: 0.8rem;
         padding-left: 0.8rem;
     }
@@ -403,6 +404,7 @@ blockquote {
     }
 
     .alertbar {
+        font-family: 'alkatip';
         position: relative !Important;
         margin-bottom: 20px;
         margin-top: 20px;
