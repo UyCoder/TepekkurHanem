@@ -209,6 +209,7 @@ section.recent-posts {
 }
 
 .toc ul {
+    font-size: 0.7rem;
     list-style: decimal;
     font-weight: 400;
 }
@@ -864,7 +865,7 @@ iframe {
 .spoiler:after {
     position: absolute;
     opacity: 0;
-    content: 'مەخپىيەتلىكنى كۆرۈش';
+    content: 'بېسىڭ';
     top: 45%;
     left: calc(50% - 100px);
     text-shadow: none;

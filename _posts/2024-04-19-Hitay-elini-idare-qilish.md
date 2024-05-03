@@ -7,7 +7,7 @@ image: assets/images/12.jpg
 toc: true
 description: "بۇ باشقا مەنبەدىن كۆچۈرۈلگەن يازما"
 rating: 4.5
-beforetoc: "بۇ قانداق ئىقتىدار"
+beforetoc: "ماقالىنى ئوقۇشتىن بۇرۇن مۇندەرىجىسىگە كۆز يۈگۈرۈتۈپ چىقسىڭىز بولىدۇ."
 comments: true
 featured: true
 hidden: true
