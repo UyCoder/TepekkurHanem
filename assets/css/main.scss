@@ -32,6 +32,12 @@ body{
 }
 
 
+@media (min-width: 768px) {
+	.text-md-left {
+		text-align: right !important;
+	}
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
