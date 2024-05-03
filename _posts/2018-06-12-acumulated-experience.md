@@ -17,15 +17,10 @@ An 1868 Prang catalogue would later claim that such “books in the shape of a r
 
 
 <style type="text/css" media="screen">
-body {
+.row {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
+    text-indent: 30px !important;
 }
-/*.container {*/
-/*	direction: rtl !important;*/
-/*	text-align: justify !important;*/
-/*	font-family: 'alkatip' !important;*/
-/*}*/
-
 </style>

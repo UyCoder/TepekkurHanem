@@ -104,16 +104,11 @@ Perhaps the best part of Markdown is that you're never limited to just Markdown.
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 <style type="text/css" media="screen">
-body {
+.row {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
+    text-indent: 30px !important;
 }
-/*.container {*/
-/*	direction: rtl !important;*/
-/*	text-align: justify !important;*/
-/*	font-family: 'alkatip' !important;*/
-/*}*/
-
 </style>
 

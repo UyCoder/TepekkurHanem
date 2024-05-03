@@ -123,13 +123,10 @@ _تەخمىنەن ئوقۇش ۋاقتى 7 مىنۇت_
 
 
 <style type="text/css" media="screen">
-body {
+.row {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
     text-indent: 30px !important;
 }
-
-
-
 </style>

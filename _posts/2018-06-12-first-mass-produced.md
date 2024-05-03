@@ -18,15 +18,10 @@ As for this particular rendition of Charles Perrault’s classic tale, the text 
 
 
 <style type="text/css" media="screen">
-body {
+.row {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
+    text-indent: 30px !important;
 }
-/*.container {*/
-/*	direction: rtl !important;*/
-/*	text-align: justify !important;*/
-/*	font-family: 'alkatip' !important;*/
-/*}*/
-
 </style>

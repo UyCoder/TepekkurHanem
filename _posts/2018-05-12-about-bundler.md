@@ -15,16 +15,17 @@ The `Gemfile` and `Gemfile.lock` files inform `Bundler` about the gem requiremen
 When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as specified in `Gemfile.lock` to ensure your Jekyll site builds with no compatibility or dependency conflicts.
 
 For more information about how to use `Bundler` in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.
+
+
+
+
+
+
 <style type="text/css" media="screen">
-body {
+.row {
 	direction: rtl !important;
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
+    text-indent: 30px !important;
 }
-/*.container {*/
-/*	direction: rtl !important;*/
-/*	text-align: justify !important;*/
-/*	font-family: 'alkatip' !important;*/
-/*}*/
-
 </style>
