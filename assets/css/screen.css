@@ -644,6 +644,12 @@ ul.tags li a:hover {
 }
 
 .post-top-meta.authorpage .btn.follow {
+    padding-bottom: -3;
+    padding-top: 9px;
+    border-left-width: 0.8;
+    padding-left: 20px;
+    padding-right: 1px;
+
     padding: 7px 20px;
     margin-top: 10px;
     margin-left: 0;
