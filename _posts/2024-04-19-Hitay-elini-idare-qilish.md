@@ -131,7 +131,8 @@ body {
 text-align:center !important;
 }
 .container {
-text-align: justify;
-text-indent: 30px;
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
 }
 </style>
