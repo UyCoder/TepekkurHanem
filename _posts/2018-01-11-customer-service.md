@@ -29,3 +29,36 @@ description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
 ---
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+body {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+}
+/*.container {*/
+/*	direction: rtl !important;*/
+/*	text-align: justify !important;*/
+/*	font-family: 'alkatip' !important;*/
+/*}*/
+
+</style>

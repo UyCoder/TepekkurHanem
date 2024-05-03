@@ -25,3 +25,34 @@ A major clue to everything that truly happened was the scene that played next un
 ```html
 <span class="spoiler">My hidden paragraph here.</span>
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+body {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+}
+/*.container {*/
+/*	direction: rtl !important;*/
+/*	text-align: justify !important;*/
+/*	font-family: 'alkatip' !important;*/
+/*}*/
+
+</style>

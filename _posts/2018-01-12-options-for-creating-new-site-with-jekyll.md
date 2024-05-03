@@ -13,3 +13,26 @@ image: assets/images/13.jpg
 - By default, the Jekyll site installed by `jekyll new` uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.
 - We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use `jekyll new myblog --blank`
 - To learn about other parameters you can include with `jekyll new`, type `jekyll new --help`.
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+body {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+}
+/*.container {*/
+/*	direction: rtl !important;*/
+/*	text-align: justify !important;*/
+/*	font-family: 'alkatip' !important;*/
+/*}*/
+
+</style>

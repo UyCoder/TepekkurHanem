@@ -16,3 +16,26 @@ An 1868 Prang catalogue would later claim that such “books in the shape of a r
 
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+body {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+}
+/*.container {*/
+/*	direction: rtl !important;*/
+/*	text-align: justify !important;*/
+/*	font-family: 'alkatip' !important;*/
+/*}*/
+
+</style>
