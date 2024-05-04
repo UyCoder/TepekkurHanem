@@ -8,27 +8,25 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>ئۆزۈمنىڭ كىم ئىكەنلىكىمنى مەنمۇ تولۇق دەپ بېرەلمەيمەن. ھازىرغىچە ھاياتىمدا بەزى ئىشلارنى قىلىپ بېقىپتىمەن. ئەمما تارىختىكى مەشھۇر شەخىسلەردەك ئۆز مىللىتىمگە تىلغا ئالغۇدەك بىر ئىش قىلالىدىم، دەپ قارىمايمەن. شۇڭا ئۆزۈمنىڭ بىرقانچە سۈپىتىمنى تىلغا ئېلىش بىلەن كۇپايىلىنەي.</p>
+<p>ئۆزۈمنىڭ كىم ئىكەنلىكىمنى مەنمۇ تولۇق دەپ بېرەلمەيمەن. ھازىرغىچە ھاياتىمدا بەزى ئىشلارنى قىلىپ بېقىپتىمەن. ئەمما ئۆز قەۋمىمگە تىلغا ئالغۇدەك بىر ئىش قىلالىدىم، دەپ قارىمايمەن. مەن تېخى باشقىلار ئۈلگە ئالغىدەك كىشىمۇ ئەمەس. شۇڭا يەنىلا مەخپىي قالاي..</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/12.jpg" alt="jekyll template mediumish" /></p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>توربەتتە بىرەر خاتالىق بايقىغان بولسىڭىز ياكى پىكىر تەپلىكىڭىز بولسا </h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>مېنىڭ گىتخاب كود بوشلۇقىمغا بېرىپ ئەسكەرتىپ قويسىڭىز بولىدۇ. رەھمەت. <a href="https://github.com/UyCoder">Github repository</a>!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5> مېنىڭ يەنە بىر بلوگىم</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p> مېنىڭ يەنە پايدىلار بلوگى دەيدىغان بىر بلوگىم بار بولۇپ، بۇ بىلوگدىمۇ مەن پايدىلىق مەزمۇنلارنى چىقىرىپ تۇرىمەن.<a target="_blank" href="https://github.com/UyCoder">Uycoder <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://uycoder.github.io/gpt-uyghur/" class="btn btn-danger">تەھرىرلىك قۇراللىرى، </a> <a target="_blank" href="https://uycoder.github.io/paydilar/" class="btn btn-warning">پايدىلار بلوگى</a>
 
 </div>
 </div>
