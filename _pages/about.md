@@ -26,7 +26,7 @@ comments: true
 
 <p> مېنىڭ يەنە پايدىلار بلوگى دەيدىغان بىر بلوگىم بار بولۇپ، بۇ بىلوگدىمۇ مەن پايدىلىق مەزمۇنلارنى چىقىرىپ تۇرىمەن.<a target="_blank" href="https://github.com/UyCoder">Uycoder <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://uycoder.github.io/gpt-uyghur/" class="btn btn-danger">تەھرىرلىك قۇراللىرى، </a> <a target="_blank" href="https://uycoder.github.io/paydilar/" class="btn btn-warning">پايدىلار بلوگى</a>
+<a target="_blank" href="https://uycoder.github.io/gpt-uyghur/" class="btn btn-danger">تەھرىرلىك قۇراللىرى </a> <a target="_blank" href="https://uycoder.github.io/paydilar/" class="btn btn-warning">پايدىلار بلوگى</a>
 
 </div>
 </div>

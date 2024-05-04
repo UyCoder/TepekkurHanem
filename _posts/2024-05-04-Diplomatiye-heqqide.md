@@ -2,7 +2,7 @@
 layout: post
 title:  "دىپلوماتىيە ھھەققىدە"
 author: ahmed
-categories: [ كۆچۈرمە, خىتاي ]
+categories: [ سۈنئىي_ئىدراك , خەلقئارامۇناسىۋەت ]
 image: assets/images/1.jpg
 toc: true
 description: "بۇ يازما دىپلوماتىيە ھەققىدە قىسقىچە ئىزدىنىشىم"
