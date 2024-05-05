@@ -23,10 +23,15 @@ body{
 
 @font-face {
 	font-family: 'alkatip';
-	src: url('../fonts/ALKATIP-TOR.woff2') format('woff2'),
-	url('../fonts/ALKATIP-TOR.eot') format('eot'),
-	url('../fonts/ALKATIP-TOR.ttf') format('ttf'),
-	url('../fonts/ALKATIP-TOR.woff') format('woff');
+	//src: url('../fonts/ALKATIP-TOR.woff2') format('woff2'),
+	//url('../fonts/ALKATIP-TOR.eot') format('eot'),
+	//url('../fonts/ALKATIP-TOR.ttf') format('ttf'),
+	//url('../fonts/ALKATIP-TOR.woff') format('woff');
+
+	src: url('../fonts/UKIJTuz.woff2') format('woff2'),
+	url('../fonts/UKIJTuz.eot') format('eot'),
+	url('../fonts/UKIJTuz.ttf') format('ttf'),
+	url('../fonts/UKIJTuz.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
