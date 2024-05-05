@@ -6,7 +6,7 @@ categories: [ سۈنئىي_ئىدراك , خەلقئارامۇناسىۋەت ]
 image: assets/images/1.jpg
 toc: true
 description: "بۇ يازما دىپلوماتىيە ھەققىدە قىسقىچە ئىزدىنىشىم"
-rating: 4.3
+rating: 4.0
 comments: true
 featured: true
 hidden: true
