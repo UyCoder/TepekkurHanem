@@ -2,7 +2,7 @@
 layout: post
 title:  "بىر كوللىكتىپتا ئەزالارنىڭ بىخەتەرلىك تۇيغۇسىنى يوقىتىشىدىكى سەۋەبلەر "
 author: ahmed
-categories: [ سۈنئىي_ئىدراك , خەلقئارامۇناسىۋەت ]
+categories: [ سۈنئىي_ئىدراك , كوللىكتىپ ]
 image: assets/images/20.jpg
 toc: true
 description: "بۇ كوللىكتىپ ھەققىدە قىسقىچە تەپەككۇر"
