@@ -7,7 +7,6 @@ image: assets/images/1.jpg
 toc: true
 description: "بۇ يازما دىپلوماتىيە ھەققىدە قىسقىچە ئىزدىنىشىم"
 rating: 4.3
-beforetoc: ""
 comments: true
 featured: true
 hidden: true
