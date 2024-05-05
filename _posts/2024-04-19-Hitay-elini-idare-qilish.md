@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " شاڭ جۈن شۇ: خەلقنى كونتۇرۇل قىلىشنىڭ 5 خىل ئۇسۇلى"
+title:  "خەلقنى كونتۇرۇل قىلىشنىڭ 5 خىل ئۇسۇلى"
 author: ahmed
 categories: [ كۆچۈرمە, خىتاي ]
 image: assets/images/12.jpg
@@ -9,7 +9,6 @@ description: "بۇ باشقا مەنبەدىن كۆچۈرۈلگەن يازما"
 rating: 4.5
 beforetoc: "ماقالىنى ئوقۇشتىن بۇرۇن مۇندەرىجىسىگە كۆز يۈگۈرۈتۈپ چىقسىڭىز بولىدۇ."
 comments: true
-featured: true
 hidden: true
 ---
 _تەخمىنەن ئوقۇش ۋاقتى 7 مىنۇت_
