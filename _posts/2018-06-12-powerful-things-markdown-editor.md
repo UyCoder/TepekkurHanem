@@ -1,114 +1,37 @@
 ---
 layout: post
-title:  "Powerful you can do with the Markdown editor"
+title:  "غەپلەت ۋە ئويغاقلىق ئارىسىدىكى قەلب"
 author: ahmed
-categories: [ Jekyll, tutorial ]
-image: assets/images/16.jpg
+categories: [ پىكىر_ئوۋلاش , ئىبن_جەۋزىي ]
+image: assets/images/5.jpg
 ---
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
+ئىمام ئىبنى جەۋزى مۇنداق دەيدۇ:
 
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
+بارلىق ھەمدۇ-سانالار اللەقا خاستۇر، اللە رازى بولغان مىقداردا ھەمدىلەر بولسۇن، اللەنىڭ نىئمىتى، سالامى ئۆزى تاللىغان ئەڭ شەرەپلىك كىشى مۇھەممەد ئەلەيھىسسالامغا بولسۇن ۋە ئۇنىڭ ھەمراھى ۋە ھامىيلىرىغا بولسۇن!
 
+مەقسەتكە كەلسەم،
 
-## Special formatting
+بىر شەيئىلەرنى كۆرگەن ۋاقتىمىزدا پىكىرلەر شۇ ھامان كاللىمىزدا جىلۋىلىنىدۇ، ئاندىن بۇ شەيئىلەردىن يىراقلاشقان ۋاقتىمىزدا بولسا پىكىرلەرمۇ بىزنى تاشلاپ كېتىپ قالىدۇ، ھەتتا ئۇلارنى ئەسلىيەلمەي قالىمىز. دەل مۇشۇ سەۋەپتىن، ئەڭ مۇھىم ئىشىمىز شۇ پىكىرلىرىمىزنى ساقلاپ قېلىش بولىدۇ.
 
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+پەيغەمبەر ئەلەيھىسسالام مۇنداق دېگەن : «قيدو العلم بالكتابة - ئىلىملەرنى يېزىش ئارقىلىق ساقلىۋېلىڭلار».
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+كۆپ قېتىم مېنىڭ كاللامغا قىممەتلىك پىكىرلەر كەلگەندە، ئۇنى ئىسپاتلاش بىلەن مەشغۇل بولغىنىمدا، ئۇلار ئۇنتۇلۇپ كەتتى. بۇ يوقىتىش مېنى پۇشايمانغا قويدى.
 
-
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
+ئۆزۈمدە كۆپ قېتىم شۇنداق بىر ئەھۋاللارنى كۆردۈمكى، ھەر قېتىم مەن تەپەككۇرۇمنى قويىۋېتىپ پىكىر يۈرگۈزگىنىمدە، ئويلاپ باقمىغان مۆجىزە بىلىملەرگە، سەل قاراشقا بولمايدىغان چۈشەنچىلەرگە ئېرىشىمەن. شۇڭا مەن بۇ كىتاپنى يېزىش ئارقىلىق شۇ چۈشەنچىلىرىمنى ئوۋلىماقچى، ساقلىۋالماقچى بولدۇم. مەنپەئەت بەرگۈچى اللە بۇنى ماڭا پايدىلىق قىلىپ بېرىشىنى سورايمەن، رەببىم اللە ھەقىقەتەن يېقىندۇر، (دۇئانى) ئىجابەت قىلغۇچىدۇر.
 
 
+ۋەز-نەسىھەتلەر قىلىنىۋاتقان ۋاقىتتا ئاڭلىغۇچىنىڭ قەلبىدە ئويغاقلىق ھاسىل بولىدۇ، ئاندىن نەسىھەت سورۇنىدىن ئايرىلغاندىن كېيىن قەلبى يەنە قاساۋەت ۋە غەپلەت ھالىتىگە قايتىپ قالىدۇ. بۇنىڭ سەۋەبى ھەققىدە تەپەككۇر قىلىپ كۆردۈم. بىلدىمكى، ئىنسانلار ۋەز-نەسىھەت ئالدىدا پەرقلىق بولىدىكەن. ئومۇمىي ھالەت شۇكى، ئىنسان قەلبىنىڭ ۋەز-نەسىھەتنى ئاڭلاۋاتقان ھالىتى ۋە ئاڭلاپ بولغاندىن كېيىنكى ھالىتى ئوخشاش بولمايدىكەن. بۇنىڭ سەۋەبى مۇنداق ئىككى بولىدىكەن:
 
+1. ۋەز-نەسىھەت خۇددىي قامچىغا ئوخشاش بولۇپ، تېرىگە تەگكەندىلا ئاندىن ئاغىرىق بېرىدۇ. تېگىپ بولغاندا ئاغىرىق پەسىيىپ بارىدۇ.
+2. ئىنسان ۋەز-نەسىھەت ئاڭلاۋاتقان ۋاقىتتا، بارلىق دۇنياۋىي سەۋەبلەردىن جىسمانىي ۋە پىكىرىي جەھەتتىن قۇتۇلغان ھالەتتە بولىدىكەن. قەلب ھوزۇرى بىلەن دىققەت قىلىپ ئاڭلايدىكەن. ئاندىن ۋەز-نەسىھەت ئاخىرلىشىپ ئۆز ئىشىلىرى بىلەن مەشغۇل بولغاندا، يەنە دۇنيا سەۋەبلىرىگە قايتىپ كېلىدىكەن. دۇنيادىكى جەلب قىلىدىغان نەرسىلەرگە يەنە چۆكۈپ كېتىدىكەن. بۇنداق بولغاندا ئىنسان قانداقمۇ ئىسلاھ بولسۇن؟!
+   
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
+بۇ ھالەت پۈتۈن خالايىقلارغا ئومۇمىي بولسىمۇ، پەقەت قەلبى ئويغاق كىشىلەر ۋەز-نەسىھەتنىڭ تەسىرىنى تۇتۇپ قېلىشقا مۇۋەپپەق بولىدۇ.
+   
+قەلبى ئويغاقلاردىن شۇنداق كىشىلەر باركى، ئۇلار قىلچە ئىككىلەنمەستىن، ۋەز-نەسىھەت تەسىرىنى يوقىتىپ قويماسلىققا تىرىشىدۇ. ئەگەر ۋەز-نەسىھەت تەسىرى ئازىيىپ قالغانلىقىنى ھېس قىلسا بىئارام بولىدۇ. خۇددىي ھەنزەلە رەزىيەللاھۇ ئەنھۇنىڭ ئۆزىگە «ھەنزەلە مۇناپىق بۇلۇپ كەتتى!»  دەپ مالامەت قىلغىنىدەك.
+   
+شۇنداق كىشىلەرمۇ باركى، تەبىئىيتى بەزىدە غەپلەتكە مايىل بولسا، بەزىدە ۋەز-نەسىھەت تەۋىسيە قىلغان ئەمەللەرگە مايىل بولىدۇ. خۇددىي شاماللارغا قارىتا ئېگىلىدىغان باشاققا ئوخشايدۇ.
+  
+يەنە شۇنداق كىشىلەر باركى، ۋەز-نەسىھەت ئۇلارغا پەقەت ئاڭلىغان ۋاقىتتىلا تەسىرى بولىدۇ. خۇددىي سىلىق تاشنىڭ ئۈستىگە قۇيۇلغان سۇدەكلا (يەنى ھەممە نەرسە ئېقىپ چۈشۈپ كېتىدۇ، ھېچنەرسە قالمايدۇ. دېمەككى، ۋەز-نەسىھەتتىن كېيىن ئۇلاردا ھىچ تەسىرى قالمايدۇ).
 
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
-
-<style type="text/css" media="screen">
-.row {
-	direction: rtl !important;
-	text-align: justify !important;
-	font-family: 'alkatip' !important;
-    text-indent: 30px !important;
-}
-</style>
 
