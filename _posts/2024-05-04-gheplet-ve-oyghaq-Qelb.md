@@ -38,3 +38,12 @@ image: assets/images/5.jpg
 يەنە شۇنداق كىشىلەر باركى، ۋەز-نەسىھەت ئۇلارغا پەقەت ئاڭلىغان ۋاقىتتىلا تەسىرى بولىدۇ. خۇددىي سىلىق تاشنىڭ ئۈستىگە قۇيۇلغان سۇدەكلا (يەنى ھەممە نەرسە ئېقىپ چۈشۈپ كېتىدۇ، ھېچنەرسە قالمايدۇ. دېمەككى، ۋەز-نەسىھەتتىن كېيىن ئۇلاردا ھىچ تەسىرى قالمايدۇ).
 
 
+
+<style type="text/css" media="screen">
+.row {
+	direction: rtl !important;
+	text-align: justify !important;
+	font-family: 'alkatip' !important;
+    text-indent: 30px !important;
+}
+</style>
