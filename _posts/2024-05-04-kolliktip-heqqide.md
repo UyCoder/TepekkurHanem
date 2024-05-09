@@ -7,10 +7,12 @@ image: assets/images/14.jpg
 toc: true
 description: "بۇ باشقا مەنبەدىن كۆچۈرۈلگەن يازما"
 rating: 4.5
-beforetoc: "ماقالىنى ئوقۇشتىن بۇرۇن مۇندەرىجىسىگە كۆز يۈگۈرۈتۈپ چىقسىڭىز بولىدۇ."
 comments: true
+featured: true
 hidden: true
 ---
+
+
 _تەخمىنەن ئوقۇش ۋاقتى 8 مىنۇت_
 
 # بىر دۆلەت قانداق قۇرۇلىدۇ؟
