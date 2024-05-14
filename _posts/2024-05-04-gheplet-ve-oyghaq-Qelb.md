@@ -45,6 +45,6 @@ image: assets/images/5.jpg
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
     text-indent: 30px !important;
-    font-size: 0.9em;
+     font-size: 0.7em !important;
 }
 </style>

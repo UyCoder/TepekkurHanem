@@ -106,6 +106,6 @@ _تەخمىنەن ئوقۇش ۋاقتى 7 مىنۇت_
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
     text-indent: 30px !important;
-    font-size: 0.8em;
+     font-size: 0.7em !important;
 }
 </style>

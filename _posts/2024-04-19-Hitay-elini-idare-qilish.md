@@ -159,5 +159,6 @@ https://www.bbc.com/news/world-40803430
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
     text-indent: 30px !important;
+    font-size: 0.7em !important;
 }
 </style>
