@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "ئىنساننى جەلب قىلىدىغان نەرسىلەر، بەسىرەتلىك بولۇش ۋە دۇنيا ئاقىۋىتى ھەققىدە"
 author: ahmed
-categories: [ Jekyll, tutorial ]
-image: assets/images/17.jpg
+categories: [ پىكىر_ئوۋلاش , ئىبن_جەۋزىي ]
+image: assets/images/6.jpg
 ---
 ## ئىنسان نەپسىنى جەلپ قىلىدىغان نەرسىلەر
 
