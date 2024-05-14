@@ -161,6 +161,6 @@ https://www.bbc.com/news/world-40803430
     
 }
 .article-post {
-font-size: 0.7em !important;
+    font-size: 0.85em !important;
 }
 </style>
