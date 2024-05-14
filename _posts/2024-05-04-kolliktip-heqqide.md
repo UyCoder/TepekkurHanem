@@ -151,7 +151,7 @@ https://www.bbc.com/news/world-40803430
 <a href="https://uyghuryol.com/2022/01/%d8%a6%db%87%d9%8a%d8%ba%db%87%d8%b1%d9%84%d8%a7%d8%b1-%da%98%db%87%d8%b1%d9%86%d9%89%d9%84%d9%89-%d8%a8%d9%89%d8%b1-%d8%af%db%86%d9%84%db%95%d8%aa-%d9%82%d8%a7%d9%86%d8%af%d8%a7%d9%82-%d9%82%db%87/">ئۇيغۇرلار ژۇرنىلى </a>
 
 
-
+---
 
 
 
@@ -161,6 +161,9 @@ https://www.bbc.com/news/world-40803430
 	text-align: justify !important;
 	font-family: 'alkatip' !important;
     text-indent: 30px !important;
-    font-size: 0.7em !important;
+    
+}
+.article-post {
+font-size: 0.7em !important;
 }
 </style>
