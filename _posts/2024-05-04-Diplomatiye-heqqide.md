@@ -109,6 +109,6 @@ _تەخمىنەن ئوقۇش ۋاقتى 7 مىنۇت_
     
 }
 .article-post {
-    font-size: 0.85em !important;
+     font-size: 0.89em !important;
 }
 </style>

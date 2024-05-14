@@ -48,6 +48,6 @@ image: assets/images/5.jpg
     
 }
 .article-post {
-    font-size: 0.85em !important;
+     font-size: 0.89em !important;
 }
 </style>
