@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "بىر دۆلەت قانداق قۇرۇلىدۇ؟"
-author: ahmed
+author: k
 categories: [ كۆچۈرمە, دۆلەت ]
 image: assets/images/14.jpg
 toc: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "خىتاي كوممۇنىست پارتىيىسىگە توققۇز باھا"
-author: ahmed
+author: k
 categories: [ كۆچۈرمە, دۆلەت ]
 image: assets/images/18.jpg
 toc: true

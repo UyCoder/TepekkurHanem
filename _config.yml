@@ -30,6 +30,16 @@ authors:
     web: https://twitter.com/ahmedbughra
     twitter: https://twitter.com/ahmedbughra
     description: "مەن بۇ بلوگنى قۇرغۇچىنىڭ ئىنىسى."
+  k:
+    name: كۆچۈرمە
+    display_name: كۆچۈرمە
+    avatar: 'assets/images/avatar.png'
+    gravatar: 3b3be63a4c2a439b013787725dfce802
+    email: wowthemesnet@gmail.com
+    web: https://twitter.com/ahmedbughra
+    twitter: https://twitter.com/ahmedbughra
+    description: "بۇ توردىن ئېلىنغان يازما بولۇپ، مەنبەسى ئاخىرىدا ئەسكەرتىلدى."
+
 
 # Plugins
 plugins:
